@@ -1,1 +1,1 @@
-"memory", "a memory game which is in german", "https://github.com/CreeperjaegerMax/Memory/raw/refs/heads/main/Memory.apk"
+"memory", "a memory game which is in german", "https://raw.githubusercontent.com/CreeperjaegerMax/Memory/refs/heads/main/Memory.apk"
